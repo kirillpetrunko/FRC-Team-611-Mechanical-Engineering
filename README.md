@@ -12,6 +12,20 @@ FIRST Robotics Competition (FRC) is an international robotics competition where 
 
 As a member of **FRC Team 611 (Saxons)**, I gained practical experience in mechanical engineering through robot assembly, subsystem integration, testing, maintenance, and competition preparation. Team 611 is based at Langley High School in McLean, Virginia and has competed since 2001. :contentReference[oaicite:0]{index=0}
 
+## Project Gallery
+
+### Team 611
+
+![Team](images/team-photo.png)
+
+### FIRST Chesapeake District Event
+
+![Competition](images/pit-team.jpg)
+
+### 2020 District Finalist Award
+
+![Award](images/award-2020-finalist.png)
+
 ---
 
 ## My Responsibilities
