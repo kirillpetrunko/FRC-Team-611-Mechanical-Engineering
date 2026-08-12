@@ -16,13 +16,15 @@ As a member of **FRC Team 611 (Saxons)**, I gained practical experience in mecha
 
 ## My Responsibilities
 
-- Mechanical assembly of the competition robot
-- Installation and adjustment of mechanical subsystems
-- Testing moving mechanisms before competitions
-- Repairing and maintaining the robot during competitions
-- Assisting with rapid mechanical modifications between matches
-- Collaborating with electrical and programming team members
-- Supporting pit operations during FRC competitions
+As a mechanical team member, I contributed to:
+
+- Mechanical assembly of competition robots
+- Integration of mechanical subsystems
+- Robot testing and validation
+- Troubleshooting mechanical issues
+- Maintenance and repairs during competitions
+- Competition pit support
+- Collaboration with electrical and software subteams
 
 ---
 
