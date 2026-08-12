@@ -1,18 +1,16 @@
-# FRC Team 611 Robotics
+# FRC Team 611 – Mechanical Engineering
 
-## FIRST Robotics Competition (FRC)
+> Mechanical engineering experience gained as a member of **FIRST Robotics Competition (FRC) Team 611 (Saxons)** at Langley High School in McLean, Virginia.
 
-This repository highlights my experience as a mechanical team member of **FIRST Robotics Competition Team 611 (Saxon Robotics)** at Langley High School.
-
-During multiple competition seasons, I contributed to the mechanical design, assembly, testing, and maintenance of competition robots used in the FIRST Robotics Competition (FRC).
+Mechanical engineering experience gained through building, testing, integrating, and maintaining competition robots for the **FIRST Robotics Competition (FRC)**. My responsibilities focused on the mechanical subsystem, robot assembly, testing, troubleshooting, and competition support while working as part of a multidisciplinary engineering team.
 
 ---
 
 ## Overview
 
-FIRST Robotics Competition challenges high school teams to design, manufacture, program, and compete with industrial-scale robots under strict engineering deadlines.
+FIRST Robotics Competition (FRC) is an international robotics competition where student teams design, manufacture, assemble, program, and compete with industrial-scale robots under strict engineering deadlines.
 
-Working as part of Team 611 provided hands-on experience with mechanical engineering, rapid prototyping, manufacturing, testing, and collaborative problem solving.
+As a member of **FRC Team 611 (Saxons)**, I gained practical experience in mechanical engineering through robot assembly, subsystem integration, testing, maintenance, and competition preparation. Team 611 is based at Langley High School in McLean, Virginia and has competed since 2001. :contentReference[oaicite:0]{index=0}
 
 ---
 
