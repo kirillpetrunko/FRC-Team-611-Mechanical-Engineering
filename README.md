@@ -1,62 +1,122 @@
-# FIRST Robotics Competition Team 611
+# FRC Team 611 Robotics
+
+## FIRST Robotics Competition (FRC)
+
+This repository highlights my experience as a mechanical team member of **FIRST Robotics Competition Team 611 (Saxon Robotics)** at Langley High School.
+
+During multiple competition seasons, I contributed to the mechanical design, assembly, testing, and maintenance of competition robots used in the FIRST Robotics Competition (FRC).
+
+---
 
 ## Overview
 
-During high school, I was a member of FIRST Robotics Competition (FRC) Team 611 (Saxons) at Langley High School in McLean, Virginia. Working alongside a multidisciplinary engineering team, I contributed to building, testing, and preparing competition robots for regional FIRST Robotics events.
+FIRST Robotics Competition challenges high school teams to design, manufacture, program, and compete with industrial-scale robots under strict engineering deadlines.
+
+Working as part of Team 611 provided hands-on experience with mechanical engineering, rapid prototyping, manufacturing, testing, and collaborative problem solving.
 
 ---
 
-## About Team 611
+## My Responsibilities
 
-FRC Team 611 is an award-winning robotics team that designs, manufactures, programs, and competes with industrial-scale robots in the FIRST Robotics Competition. Team members gain hands-on experience in engineering design, manufacturing, programming, testing, and project management.
+- Mechanical assembly of the competition robot
+- Installation and adjustment of mechanical subsystems
+- Testing moving mechanisms before competitions
+- Repairing and maintaining the robot during competitions
+- Assisting with rapid mechanical modifications between matches
+- Collaborating with electrical and programming team members
+- Supporting pit operations during FRC competitions
 
 ---
 
-## My Contributions
+## Skills Demonstrated
 
-- Mechanical assembly of competition robots
-- Integration of mechanical subsystems
-- Robot testing and troubleshooting
-- Mechanical adjustments and repairs
-- Competition preparation
-- Team collaboration during build season
+- Mechanical Assembly
+- Robot Integration
+- Hardware Testing
+- Troubleshooting
+- Rapid Prototyping
+- Team Collaboration
+- Engineering Documentation
+- Competition Support
+
+---
+
+## Competition Experience
+
+### FIRST Chesapeake District Events
+
+Team 611 successfully competed in multiple FIRST Chesapeake District competitions.
+
+Highlights include:
+
+- FIRST Chesapeake District Finalist (2020)
+- District competition participation
+- Robot inspection and field testing
+- Match preparation and pit support
+- Mechanical troubleshooting under time constraints
+
+---
+
+## Team Photos
+
+### Competition Team
+
+![Team](images/team-photo.png)
+
+### Team in the Pit
+
+![Pit Team](images/pit-team.jpg)
+
+### FIRST Chesapeake District Finalist Award
+
+![Award](images/award-2020-finalist.png)
 
 ---
 
 ## Engineering Experience
 
-Working on Team 611 provided practical engineering experience in:
+Working on Team 611 strengthened practical engineering skills including:
 
-- Mechanical assembly
-- Hands-on system integration
-- Troubleshooting mechanical systems
-- Prototype testing
-- Team-based engineering workflow
-- Engineering documentation
-- Time-critical competition preparation
-
----
-
-## Competition Highlights
-
-- FIRST Robotics Competition Team 611
-- FIRST Chesapeake District competitions
-- Collaborative robot design, assembly, testing, and competition
+- Mechanical system assembly
+- Manufacturing processes
+- Precision fitting
+- Hardware validation
+- Collaborative engineering
+- Design iteration under deadlines
+- Competition readiness
 
 ---
 
-## Skills Developed
+## Technologies
 
-- Mechanical Assembly
-- Robot Integration
-- System Testing
-- Troubleshooting
-- Engineering Collaboration
-- Manufacturing Processes
-- Problem Solving
+- FIRST Robotics Competition
+- Mechanical Design
+- Hand Tools
+- Power Tools
+- CAD Review
+- Mechanical Integration
+- Robot Assembly
+- Testing & Validation
 
 ---
 
-## Gallery
+## Repository Structure
 
-*(Competition photographs and team images)*
+```
+FRC-Team-611-Robotics/
+│
+├── images/
+│   ├── team-photo.png
+│   ├── pit-team.jpg
+│   └── award-2020-finalist.png
+│
+└── README.md
+```
+
+---
+
+## About Team 611
+
+FIRST Robotics Competition Team 611 (Saxon Robotics) is based at Langley High School in McLean, Virginia.
+
+The team designs, builds, and competes with industrial-scale robots while giving students hands-on engineering experience in mechanical design, electrical systems, programming, manufacturing, and project management.
